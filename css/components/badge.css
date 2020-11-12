@@ -9,3 +9,11 @@
   color: white;
   font-weight: 600;
 }
+
+.badge-sm {
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 75px;
+  bottom: 17px;
+}
